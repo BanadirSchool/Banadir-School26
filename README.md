@@ -24,16 +24,16 @@
             
                 <tr>
                     <td> CDC </td>
-                    <td>   Lama Haayo
-                        <td>Z  
+                    <td>   87
+                        <td>B+
                     </td>
                     <td> CAAFIMAAD
                     </td>
                 </tr>
                 <tr>
                     <td> ANATOMY </td>
-                    <td>Lama Hayo  
-                        <td> Z
+                    <td>100 
+                        <td> A+
                     </td>
                     <td> CAAFIMAAD
                     </td>
