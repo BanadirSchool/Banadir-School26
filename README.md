@@ -41,23 +41,23 @@
                
                 <tr>
                         <td>PHYSIOLOGY </td>
-                        <td>100</td>
-                        <td> A+
+                        <td>90</td>
+                        <td> A
                         <td> CAAFIMAAD
                         </td>
                     </tr>
                     <tr>
                         <td> PHARMACOLOGY</td>
-                        <td>Lama Hayo</td>
-                        <td> Z
+                        <td>95</td>
+                        <td> A+
                         <td> CAAFIMAAD
                         </td>
                     </tr>
                     
                     <tr>
                             <td> NUTRITION</td>
-                            <td>Lama Hayo</td>
-                            <td> Z
+                            <td>86</td>
+                            <td> B+
                             <td> CAAFIMAAD
                             </td> 
                         </tr>    
